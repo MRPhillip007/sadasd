@@ -1,0 +1,14 @@
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfoInputs.cache
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfo.cs
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.exe
+C:\Projects\Learning\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.deps.json
+C:\Projects\Learning\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.runtimeconfig.json
+C:\Projects\Learning\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.dll
+C:\Projects\Learning\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.pdb
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.dll
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\refint\SalaryCalculator.dll
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.pdb
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.genruntimeconfig.cache
+C:\Projects\Learning\SalaryCalculator\obj\Debug\net6.0\ref\SalaryCalculator.dll
