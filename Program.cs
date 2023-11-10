@@ -31,6 +31,8 @@
 
                     Console.Write($"\t Earned per week: {earnedPerWeek} \n\t Earned this year: {earnedPerYear} \n\t Taxed income \n\t\t Clear income: {yearSalaryWithTaxRate.Keys.First()} " +
                         $"\n\t\t Your tax rate: {yearSalaryWithTaxRate.Values.First()}%");
+
+                    Console.ReadLine();
                 }
                 else
                 {
